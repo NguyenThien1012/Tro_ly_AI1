@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Em Thy ở đây để tư vấn về "TMC/TD Phòng dự án".
 Sếp inbox nội dung cần tư vấn giúp em Thy nhé ! 
+=======
+Em Thy ở đây để tư vấn về "TMC/TD Phòng Dự Án".
+Anh/Chị inbox nội dung cần tư vấn giúp em nhé ! 
+>>>>>>> afb53a609b1de1e00e04e3d9ab307310fc01e7b5
