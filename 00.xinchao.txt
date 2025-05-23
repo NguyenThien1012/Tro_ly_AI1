@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Chào Anh/Chị, em là Thy - Trợ Lý A.I Của phòng kinh doanh dự án
-=======
 Chào Anh/Chị. Em là Thy trợ lý AI của phòng kinh doanh Dự Án
->>>>>>> 403c5bff36465f53c7c10303e4f81a952c884537
